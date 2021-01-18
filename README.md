@@ -12,25 +12,30 @@ I wrote a Keylogger Virus that actually works and looks like the game Valorant
 
 ## Getting Started and Installing
 
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-
+keylogger.py
 ```
-Give the example
+python keylogger.py 
 ```
+Begin typing anywhere and your keyboard strokes will be recorded in the file text.txt
+Click ESC key to end process
 
-And repeat
-
+keylogger2.py
 ```
-until finished
+python keylogger2.py 
 ```
+Begin typing anywhere and your keyboard strokes will be sent in an email to the email listed in the program file (stuyhackerdemo@gmail.com)
 
-End with an example of getting some data out of the system or using it for a little demo
+**ANTIVIRUS PROGRAMS (such as AVAST FREE ANTIVIRUS) WILL FLAG VALORANT.EXE
+ Tell your antivirus that these files are fine**
 
+Valorant.exe
+```
+./Valorant.exe or double click to open like a normal application
+```
+Begin typing anywhere and your keyboard strokes will be sent in an email to the email listed in the program file (stuyhackerdemo@gmail.com)
 
-
-
+## Dependencies
+* [pynput] = Only version 1.6.8 works not the newest 1.7.2 (keylogger.py and keylogger2.py include a subprocess to install the correct module version so no installation is needed by the user)
 
 
 ## Resources Used
@@ -42,8 +47,8 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Authors
 
-* **Nehemiah Yu** - *Initial work* - [idk](https://github.com/Nyu10)
-* **Johnny Wong** - *Initial work* - [idk](https://github.com/Nyu10)
+* **Nehemiah Yu** - (https://github.com/Nyu10)
+* **Johnny Wong** - (https://github.com/jwong10)
 
 ## License
 
