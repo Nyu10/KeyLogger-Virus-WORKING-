@@ -20,14 +20,16 @@ cd to KeyLogger-Virus-Working
 ```
 python keylogger.py 
 ```
-Begin typing anywhere and your keyboard strokes will be recorded in the file text.txt
-Click ESC key to end process
+Begin typing anywhere and your keyboard strokes will be recorded in the file text.txt.
+Click ESC key to end process.
 
 **keylogger2.py**
 ```
 python keylogger2.py 
 ```
-Begin typing anywhere and your keyboard strokes will be sent in an email to the email listed in the program file (stuyhackerdemo@gmail.com)
+Begin typing anywhere and your keyboard strokes will be sent in an email to the email listed in the program file (stuyhackerdemo@gmail.com).
+Click ESC key to end process.
+
 
 **ANTIVIRUS PROGRAMS (such as AVAST FREE ANTIVIRUS) WILL FLAG VALORANT.EXE
  Tell your antivirus that these files are fine**
@@ -36,7 +38,9 @@ Begin typing anywhere and your keyboard strokes will be sent in an email to the 
 ```
 ./Valorant.exe in command prompt or double click on icon like a normal application
 ```
-Begin typing anywhere and your keyboard strokes will be sent in an email to the email listed in the program file (stuyhackerdemo@gmail.com)
+Begin typing anywhere and your keyboard strokes will be sent in an email to the email listed in the program file (stuyhackerdemo@gmail.com).
+Click ESC key to end process.
+
 
 ## Dependencies
 * [pynput] = Only version 1.6.8 works not the newest 1.7.2 (keylogger.py and keylogger2.py include a subprocess to install the correct module version so no installation is needed by the user)
