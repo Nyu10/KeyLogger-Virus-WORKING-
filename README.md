@@ -44,6 +44,12 @@ Click ESC key to end process.
 [Note: It will pop up a Valorant.exe window that says "YOU HAVE BEEN HACKED". We could have made the program run in the background, but chose not too because we don't actaully want to hack all the stuff you type.]
 ## Dependencies
 * [pynput] = Only version 1.6.8 works with our program, not the newest version 1.7.2. (The project files keylogger.py and keylogger2.py will automate the process of instally pynput so no further installation is needed by the user)
+## Known Issues
+- The ASCII Art (the "YOU HAVE BEEN HACKED") causes an error on my GitBash, but no error on my VSCODE Git Terminal. *UnicodeEncodeError: 'charmap' codec can't encode characters in position 4-6: character maps to <undefined>* This is the error.
+  To Solve: 
+```
+simply delete the YOU HAVE BEEN HACKED print statement from the code. 
+```
 
 
 ## Resources Used
