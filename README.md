@@ -43,7 +43,7 @@ Click ESC key to end process.
 
 [Note: It will pop up a Valorant.exe window that says "YOU HAVE BEEN HACKED". We could have made the program run in the background, but chose not too because we don't actaully want to hack all the stuff you type.]
 ## Dependencies
-* [pynput] = Only version 1.6.8 works not the newest 1.7.2 (keylogger.py and keylogger2.py include a subprocess to install the correct module version so no installation is needed by the user)
+* [pynput] = Only version 1.6.8 works with our program, not the newest version 1.7.2. (The project files keylogger.py and keylogger2.py will automate the process of instally pynput so no further installation is needed by the user)
 
 
 ## Resources Used
