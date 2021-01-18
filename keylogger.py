@@ -62,7 +62,6 @@ def process_input(keys, file): #processing the pynput module
                     words_per_line=0
             else:
                 file.write(" ")
-                words_per_line=0
         elif char=="Key.enter":
             file.write("\n")
         elif char=="Key.backspace":
