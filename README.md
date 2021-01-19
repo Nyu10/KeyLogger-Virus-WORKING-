@@ -30,10 +30,6 @@ python keylogger2.py
 Begin typing anywhere and your keyboard strokes will be sent in an email to the email listed in the program file (stuyhackerdemo@gmail.com).
 Click ESC key to end process.
 
-
-**ANTIVIRUS PROGRAMS (such as AVAST FREE ANTIVIRUS) WILL FLAG VALORANT.EXE**
- **Tell your antivirus that these files are fine**
-
 **Valorant.exe**
 ```
 ./Valorant.exe in command prompt or double click on icon like a normal application
@@ -45,6 +41,11 @@ Click ESC key to end process.
 ## Dependencies
 * [pynput] = Only version 1.6.8 works with our program, not the newest version 1.7.2. (The project files keylogger.py and keylogger2.py will automate the process of instally pynput so no further installation is needed by the user)
 ## Known Issues
+
+-Antivirus programs (such as AVAST FREE ANTIVIRUS) WILL FLAG VALORANT.EXE as a virus
+```
+tell your antivirus application that the files are good, such as "restore" and "retrieve" "not a threat"
+```
 - The ASCII Art (the "YOU HAVE BEEN HACKED") causes an error on my GitBash, but no error on my VSCODE Git Terminal. *UnicodeEncodeError: 'charmap' codec can't encode characters in position 4-6: character maps to <undefined>* This is the error.
   To Solve: 
 ```
