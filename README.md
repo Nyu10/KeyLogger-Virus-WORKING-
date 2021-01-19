@@ -1,6 +1,6 @@
 # KeyLogger Virus (WORKING!)
 
-I wrote a Keylogger Virus that actually works and looks like the game Valorant
+We wrote a Keylogger Virus that actually works and looks like the game Valorant
 
 **WARNING! ANTIVIRUS PROGRAMS (such as AVAST FREE ANTIVIRUS) WILL FLAG VALORANT.EXE as a VIRUS.**
 **THIS PROJECT WAS FOR EDUCATIONAL PURPOSES. DO NOT TRY TO USE A KEYLOGGER AS A LEGITIMATE VIRUS BECAUSE IT IS 100% ILLEGAL IN MOST CASES AND FINES, ARRESTS, AND JAIL TIME COULD BE WARRANTED**
