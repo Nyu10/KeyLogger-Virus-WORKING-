@@ -44,7 +44,7 @@ Click ESC key to end process.
 * [pynput] = Only version 1.6.8 works with our program, not the newest version 1.7.2. (The project files keylogger.py and keylogger2.py will automate the process of instally pynput so no further installation is needed by the user)
 ## Known Issues
 
-- Antivirus programs (such as Avsat Free Antivirus and Microsoft Defender) will flag Valorant.exe as a virus
+- Antivirus programs (such as Avast Free Antivirus and Microsoft Defender) will flag Valorant.exe as a virus
 ```
 tell your antivirus application that the files are good, such as "restore" and "retrieve" "not a threat"
 ```
