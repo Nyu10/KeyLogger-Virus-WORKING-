@@ -30,6 +30,8 @@ python keylogger2.py
 Begin typing anywhere and your keyboard strokes will be sent in an email to the email listed in the program file (stuyhackerdemo@gmail.com).
 Click ESC key to end process.
 
+To send the email logs to your own email, you need to change the email and password in your code. Also, [Turn Allow less secure apps to ON.](https://myaccount.google.com/lesssecureapps) Be aware that this makes it easier for others to gain access to your account.
+
 **Valorant.exe**
 ```
 ./Valorant.exe in command prompt or double click on icon like a normal application
