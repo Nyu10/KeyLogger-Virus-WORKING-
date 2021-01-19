@@ -65,7 +65,7 @@ simply delete the YOU HAVE BEEN HACKED print statement from the code.
 ## Authors
 
 * **Nehemiah Yu** - (https://github.com/Nyu10)
-* **Johnny Wong** - (https://github.com/jwong10)
+* **Johnny Wong** - (https://github.com/jwong0123)
 
 ## License
 
