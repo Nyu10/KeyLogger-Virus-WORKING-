@@ -48,7 +48,13 @@ Click ESC key to end process.
 ```
 tell your antivirus application that the files are good, such as "restore" and "retrieve" "not a threat"
 ```
-- The ASCII Art (the "YOU HAVE BEEN HACKED") causes an error on my GitBash, but no error on my VSCODE Git Terminal. *UnicodeEncodeError: 'charmap' codec can't encode characters in position 4-6: character maps to <undefined>* This is the error.
+- The ASCII Art (the "YOU HAVE BEEN HACKED") causes an error on my GitBash, but no error on my VSCODE Git Terminal.
+
+
+This is the error.
+
+
+*UnicodeEncodeError: 'charmap' codec can't encode characters in position 4-6: character maps to <undefined>* 
   To Solve: 
 ```
 simply delete the YOU HAVE BEEN HACKED print statement from the code. 
