@@ -1,6 +1,6 @@
 # KeyLogger Virus (WORKING!)
 
-We wrote a Keylogger Virus that actually works and looks like the game Valorant
+KeyLogger that hides as an exe file and is able to send all keyboard strokes directly to a regular email address, essentially hacking their computer. 
 
 **WARNING! ANTIVIRUS PROGRAMS (such as AVAST FREE ANTIVIRUS) WILL FLAG VALORANT.EXE as a VIRUS.**
 **THIS PROJECT WAS FOR EDUCATIONAL PURPOSES. DO NOT TRY TO USE A KEYLOGGER AS A LEGITIMATE VIRUS BECAUSE IT IS 100% ILLEGAL IN MOST CASES AND FINES, ARRESTS, AND JAIL TIME COULD BE WARRANTED**
